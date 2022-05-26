@@ -14,7 +14,7 @@
 * git (git full documentation) - [**https://git-scm.com/book/it/v1/Per-Iniziare-Basi-di-Git**](https://git-scm.com/book/it/v1/Per-Iniziare-Basi-di-Git)
 
 <br>
-**Exercise**
+<span style="color:orange">**Exercise**</span>
 
 * CSS propriety - [**https://flukeout.github.io**](https://flukeout.github.io/)
 
