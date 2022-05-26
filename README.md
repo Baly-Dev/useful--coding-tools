@@ -4,8 +4,9 @@
 
 * Find unicode characters (unicode-table.com) - [**https://unicode-table.com/en/**](https://unicode-table.com/en/)
 * Pick up a font-family (myfonts.com) - [**https://www.myfonts.com/**](https://www.myfonts.com/)
-* Palette out of the box - [**https://www.happyhues.co/**](https://www.happyhues.co/)
-* Submarine cable map - [**https://www.submarinecablemap.com/**](https://www.submarinecablemap.com/)
+* Palette out of the box (happyhues.com) - [**https://www.happyhues.co/**](https://www.happyhues.co/)
+* Submarine cable map (submarinecablemap.com) - [**https://www.submarinecablemap.com/**](https://www.submarinecablemap.com/)
+* Find coding solutions or ask for (stackoverflow.com) - [**https://stackoverflow.com/**](https://stackoverflow.com/)
 
 **Documentation**
 
