@@ -10,7 +10,7 @@
 **Documentation**
 
 * w3schools (HTML - CSS - JS and more) - [**https://www.w3schools.com/**](https://www.w3schools.com/)
-* git (git full documentation) - [**https://git-scm.com/book/it/v1/Per-Iniziare-Basi-di-Git**](https://git-scm.com/book/it/v1/Per-Iniziare-Basi-di-Git)
+* Git (git full documentation) - [**https://git-scm.com/book/it/v1/Per-Iniziare-Basi-di-Git**](https://git-scm.com/book/it/v1/Per-Iniziare-Basi-di-Git)
 
 **Exercise**
 
