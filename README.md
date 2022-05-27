@@ -1,4 +1,4 @@
-# Useful Coding Tools by Baly - 👩🏽‍🚀
+# Useful Coding Resources by Baly - 👩🏽‍🚀
 
 **Site**
 
