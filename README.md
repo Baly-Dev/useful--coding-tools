@@ -7,7 +7,7 @@
 * Palette out of the box (happyhues.com) - [**https://www.happyhues.co/**](https://www.happyhues.co/)
 * Submarine cable map (submarinecablemap.com) - [**https://www.submarinecablemap.com/**](https://www.submarinecablemap.com/)
 * Find coding solutions or ask for (stackoverflow.com) - [**https://stackoverflow.com/**](https://stackoverflow.com/)
-* Flexbox full guide and chetsheet (css-tricks.com) - [**https://css-tricks.com/snippets/css/a-guide-to-flexbox/**](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* Flexbox full guide and cheatsheet (css-tricks.com) - [**https://css-tricks.com/snippets/css/a-guide-to-flexbox/**](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 **Documentation**
 
