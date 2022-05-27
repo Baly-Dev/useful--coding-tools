@@ -16,7 +16,9 @@
 
 **Exercise**
 
-* CSS propriety - [**https://flukeout.github.io**](https://flukeout.github.io/)
+* CSS selectors - [**https://flukeout.github.io**](https://flukeout.github.io/)
+* CSS flexbox 01 - [**https://flukeout.github.io**](https://flexboxfroggy.com)
+* CSS flexbox 02 - [**https://flukeout.github.io**](http://www.flexboxdefense.com)
 
 **Visual Studio Code Plugins**
 
