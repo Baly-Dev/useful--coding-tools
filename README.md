@@ -7,6 +7,8 @@
 * Palette out of the box (happyhues.com) - [**https://www.happyhues.co/**](https://www.happyhues.co/)
 * Submarine cable map (submarinecablemap.com) - [**https://www.submarinecablemap.com/**](https://www.submarinecablemap.com/)
 * Find coding solutions or ask for (stackoverflow.com) - [**https://stackoverflow.com/**](https://stackoverflow.com/)
+* Icons CDN (fontawesome.com) - [**https://stackoverflow.com/**](https://fontawesome.com/)
+* Icons CDN (remixicon.com) - [**https://remixicon.com/**](https://remixicon.com)
 
 **Documentation**
 
