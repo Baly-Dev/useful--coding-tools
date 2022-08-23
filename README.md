@@ -11,6 +11,11 @@
 * Icons CDN (remixicon.com) - [**https://remixicon.com/**](https://remixicon.com)
 * (yesviz.com/viewport)
 
+**Tools**
+
+* VS Code - [**https://code.visualstudio.com/**](https://code.visualstudio.com/)
+* API Managment - [**https://web.postman.co/**](https://web.postman.co/)
+
 **Documentation**
 
 * w3schools (HTML - CSS - JS and more) - [**https://www.w3schools.com/**](https://www.w3schools.com/)
