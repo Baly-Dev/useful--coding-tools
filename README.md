@@ -2,13 +2,13 @@
 
 **Site**
 
-* Find unicode characters (unicode-table.com) - [**https://unicode-table.com/en/**](https://unicode-table.com/en/)
-* Pick up a font-family (myfonts.com) - [**https://www.myfonts.com/**](https://www.myfonts.com/)
-* Palette out of the box (happyhues.com) - [**https://www.happyhues.co/**](https://www.happyhues.co/)
-* Submarine cable map (submarinecablemap.com) - [**https://www.submarinecablemap.com/**](https://www.submarinecablemap.com/)
-* Find coding solutions or ask for (stackoverflow.com) - [**https://stackoverflow.com/**](https://stackoverflow.com/)
-* Icons CDN (fontawesome.com) - [**https://fontawesome.com/**](https://fontawesome.com/)
-* Icons CDN (remixicon.com) - [**https://remixicon.com/**](https://remixicon.com)
+* Find unicode characters - [**https://unicode-table.com/en/**](https://unicode-table.com/en/)
+* Pick up a font-family - [**https://www.myfonts.com/**](https://www.myfonts.com/)
+* Palette out of the box - [**https://www.happyhues.co/**](https://www.happyhues.co/)
+* Submarine cable map - [**https://www.submarinecablemap.com/**](https://www.submarinecablemap.com/)
+* Find coding solutions or ask for - [**https://stackoverflow.com/**](https://stackoverflow.com/)
+* Icons CDN - [**https://fontawesome.com/**](https://fontawesome.com/)
+* Icons CDN - [**https://remixicon.com/**](https://remixicon.com)
 * (yesviz.com/viewport)
 
 **Tools**
