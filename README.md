@@ -9,7 +9,6 @@
 * Find coding solutions or ask for - [**https://stackoverflow.com/**](https://stackoverflow.com/)
 * Icons CDN - [**https://fontawesome.com/**](https://fontawesome.com/)
 * Icons CDN - [**https://remixicon.com/**](https://remixicon.com)
-* (yesviz.com/viewport)
 
 **Tools**
 
