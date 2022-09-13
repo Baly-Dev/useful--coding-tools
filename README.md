@@ -10,6 +10,8 @@
 * Icons CDN - [**https://fontawesome.com/**](https://fontawesome.com/)
 * Icons CDN - [**https://remixicon.com/**](https://remixicon.com)
 
+Regex101.com
+
 **Tools**
 
 * VS Code - [**https://code.visualstudio.com/**](https://code.visualstudio.com/)
